@@ -1,6 +1,3 @@
-"Hello Xoken, this is Mayank. Today is 23rd July, 2018."
-
-
 # Web-Crawler
 Web Crawler in Python
 
